@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xInaRowNextGeneration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xInaRowNextGeneration_jar</output-path>
+    <root id="archive" name="xInaRowNextGeneration.jar">
+      <element id="module-output" name="xInaRowNextGeneration" />
+    </root>
+  </artifact>
+</component>
